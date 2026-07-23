@@ -35,10 +35,10 @@ Saya spesialis dalam pengembangan aplikasi desktop yang cepat, responsif, dan te
 
 Berikut adalah replika proyek yang mendemonstrasikan arsitektur sistem yang pernah saya bangun di industri:
 
-### 1. 📈 Industrial Sensor Simulator (PyQt6 + QML)
-Aplikasi simulasi sensor industri dengan visualisasi data *real-time* dan perekaman log.
+### 1. 📈 Test Bench Expert (PyQt5 + QML)
+Aplikasi Data Acquisition (DAQ) dengan visualisasi data *real-time* dan perekaman log.
 - **Fitur:** Threading multi-sensor, grafik live, ekspor CSV.
-- **Lihat Repo:** [Link ke Repositori Sensor](#) *(WIP)*
+- **Lihat Repo:** [Link ke Repositori Sensor](https://github.com/daaa-z1/TestBenchExpert) 
 
 ### 2. 📑 Automated Report Generator (PyQt6 + ReportLab)
 Alat otomatisasi untuk mengubah data mentah CSV menjadi laporan teknis PDF yang siap cetak.
@@ -79,13 +79,13 @@ Aplikasi manajemen stok lintas platform (Web & Mobile) dengan UI reaktif.
 Saya terbuka untuk peluang kolaborasi, pekerjaan (full-time / remote), atau diskusi teknis seputar Python Desktop Development.
 
 <p align="left">
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN_ANDA" target="_blank">
+  <a href="https://linkedin.com/in/huda-rahmat" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/USERNAME_INSTAGRAM_ANDA" target="_blank">
+  <a href="https://instagram.com/iydaaaiy" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:email.anda@contoh.com">
+  <a href="mailto:hudac00@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
