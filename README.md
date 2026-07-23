@@ -38,7 +38,7 @@ Berikut adalah replika proyek yang mendemonstrasikan arsitektur sistem yang pern
 ### 1. 📈 Test Bench Expert (PyQt5 + QML)
 Aplikasi Data Acquisition (DAQ) dengan visualisasi data *real-time* dan perekaman log.
 - **Fitur:** Threading multi-sensor, grafik live, ekspor CSV.
-- **Lihat Repo:** [Link ke Repositori Sensor](https://github.com/daaa-z1/TestBenchExpert) 
+- **Lihat Repo:** [Link ke Repositori TBE](https://github.com/daaa-z1/TestBenchExpert) 
 
 ### 2. 📑 Automated Report Generator (PyQt6 + ReportLab)
 Alat otomatisasi untuk mengubah data mentah CSV menjadi laporan teknis PDF yang siap cetak.
